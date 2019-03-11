@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["okkun_sh"]
   spec.email         = ["okkun.sh@gmail.com"]
 
-  spec.summary       = %q{}
-  spec.description   = %q{}
+  spec.summary       = %q{You can know JpPrefectures so easy!!!}
+  spec.description   = %q{This CLI fetch JpPrefecture informations.}
   spec.homepage      = "https://github.com/okkun-sh/ja_prefecture-cli"
   spec.license       = "MIT"
 
